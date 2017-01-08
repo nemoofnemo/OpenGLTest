@@ -41,3 +41,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dll
+packages/nupengl.core.redist.0.1.0.1/build/native/bin/Win32/visualinfo.exe
+*.exe
+*.ilk
+*.sln
+*.nupkg
+*.targets
+packages/nupengl.core.redist.0.1.0.1/build/native/default-propertiesui.xml
+*.autopkg
+*.filters
+OpenGLTest/OpenGLTest.vcxproj
+*.pdb
+OpenGLTest/packages.config
+packages/nupengl.core.0.1.0.1/build/publisher-info.txt
+packages/nupengl.core.redist.0.1.0.1/build/publisher-info.txt
+*.db
+OpenGLTest.VC.VC.opendb
+*.obj
+OpenGLTest/Debug/OpenGLTest.tlog/CL.command.1.tlog
+*.tlog
+OpenGLTest/Debug/vc140.idb
+*.suo
